@@ -566,7 +566,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             [
                              [
                               InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-                              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                              InlineKeyboardButton('DELETE')
                            ],[
                               InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
                              ]
