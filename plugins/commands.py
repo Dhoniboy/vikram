@@ -153,9 +153,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                        ],[
-                          InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
+                          InlineKeyboardButton('Delete', callback_data='close_data')
                          ]
                         ]
                     )
@@ -172,9 +172,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                        ],[
-                          InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
+                          InlineKeyboardButton('Delete', callback_data='close_data')
                          ]
                         ]
                     )
@@ -243,9 +243,9 @@ async def start(client, message):
                     [
                      [
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                      InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                    ],[
-                      InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
+                      InlineKeyboardButton('Delete', callback_data='close_data')
                      ]
                     ]
                 )
@@ -286,9 +286,9 @@ async def start(client, message):
             [
              [
               InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+              InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
            ],[
-              InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
+              InlineKeyboardButton('Delete', callback_data='close_data')
              ]
             ]
         )
