@@ -155,7 +155,7 @@ async def start(client, message):
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                        ],[
-                          InlineKeyboardButton('Delete', callback_data='close_data')
+                          InlineKeyboardButton('🗑️𝐃𝐞𝐥𝐞𝐭𝐞🗑️', callback_data='close_data')
                          ]
                         ]
                     )
@@ -174,7 +174,7 @@ async def start(client, message):
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                        ],[
-                          InlineKeyboardButton('Delete', callback_data='close_data')
+                          InlineKeyboardButton('🗑️𝐃𝐞𝐥𝐞𝐭𝐞🗑️', callback_data='close_data')
                          ]
                         ]
                     )
@@ -245,7 +245,7 @@ async def start(client, message):
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
                    ],[
-                      InlineKeyboardButton('Delete', callback_data='close_data')
+                      InlineKeyboardButton('🗑️𝐃𝐞𝐥𝐞𝐭𝐞🗑️', callback_data='close_data')
                      ]
                     ]
                 )
@@ -288,7 +288,7 @@ async def start(client, message):
               InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton("CHANNEL", url="https://t.me/+HtY4srjQj7tjMDc1")
            ],[
-              InlineKeyboardButton('Delete', callback_data='close_data')
+              InlineKeyboardButton('🗑️𝐃𝐞𝐥𝐞𝐭𝐞🗑️', callback_data='close_data')
              ]
             ]
         )
