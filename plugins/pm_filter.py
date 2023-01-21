@@ -566,7 +566,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             [
                              [
                               InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
-                              InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Ultraspeed1bot")
+                              InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Gowthaman2008")
                            ],[
                               InlineKeyboardButton('Delete', callback_data='close_data')
                              ]
@@ -1191,7 +1191,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="https://t.me/Ultraspeed1bot")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="https://t.me/Gowthaman2008")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
